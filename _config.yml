@@ -1,14 +1,26 @@
-layout_spectrum: 0.8025638
-typography_spectrum: 0.1357109
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.6559578
+  brandStrength: 1
   lightness: 0.1958547
-  brandStrength: 0.8957447
   brandColors:
-    - '#0D0C0C'
-    - '#5C4B41'
-    - '#9A9079'
-    - '#FFFFFF'
-    - '#5CA2D8'
+    - '#D9CDBD'
+    - '#A58F78'
+    - '#0C0603'
+    - '#4C3827'
+    - '#89705A'
   rhythmicContrast: 0.9002726
+typography_spectrum: 0.1357109
+layout_spectrum: 0.8025638
 name: www.caf.net.au
