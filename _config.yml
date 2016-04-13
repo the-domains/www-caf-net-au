@@ -1,0 +1,14 @@
+layout_spectrum: 0.8025638
+typography_spectrum: 0.1357109
+color:
+  saturation: 0.6559578
+  lightness: 0.1958547
+  brandStrength: 0.6443324
+  rhythmicContrast: 0.9002726
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: www.caf.net.au
