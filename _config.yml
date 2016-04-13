@@ -10,10 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.6574468
 color:
-  saturation: 0.6559578
+  saturation: 1
   brandStrength: 1
-  lightness: 0.1958547
+  lightness: 1
   brandColors:
     - '#D9CDBD'
     - '#A58F78'
@@ -21,6 +22,5 @@ color:
     - '#4C3827'
     - '#89705A'
   rhythmicContrast: 0.9002726
-typography_spectrum: 0.1357109
-layout_spectrum: 0.8025638
+layout_spectrum: 0.8914894
 name: www.caf.net.au
