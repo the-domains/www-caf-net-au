@@ -3,12 +3,12 @@ typography_spectrum: 0.1357109
 color:
   saturation: 0.6559578
   lightness: 0.1958547
-  brandStrength: 0.6443324
-  rhythmicContrast: 0.9002726
+  brandStrength: 0.8957447
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#0D0C0C'
+    - '#5C4B41'
+    - '#9A9079'
+    - '#FFFFFF'
+    - '#5CA2D8'
+  rhythmicContrast: 0.9002726
 name: www.caf.net.au
